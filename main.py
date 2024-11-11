@@ -1,4 +1,4 @@
-
+#!/usr/bin/python
 import logging
 import subprocess
 from colorama import init
