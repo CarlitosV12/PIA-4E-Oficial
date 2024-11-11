@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import socket #Modulo necesario para la revision de puertos 
 import logging #Modulo para guardar un registro de lo que hace el script
 import requests #Modulo necesario para obtener la ip publica 
